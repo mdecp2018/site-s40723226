@@ -1,8 +1,9 @@
 .container {
   position: relative;
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxgpdk8XwiDNBOUXPMNI6t6GVvrcUWo0o0sMykAyRL-jBZdav);
 }
 header{
-  background: #ccc;
+  background-image:url(https://img.computerdiy.com.tw/20160727092043_53.png);
   padding: 20px;
 }
 confmenu
